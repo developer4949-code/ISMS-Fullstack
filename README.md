@@ -9,7 +9,7 @@ This repository hosts the **fullstack implementation** of the Institute/Integrat
 ## 🔧 Tech Stack
 
 ### Backend
-- Java 8+
+- Java 17
 - Spring Boot
 - Gradle
 - Firebase (Authentication and Notifications)
